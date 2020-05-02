@@ -13,12 +13,13 @@ My personal MERN stack starter boilerplate done with NextJs, so I dont have to t
 
 
 ## Install
-Clone this project with `git clone https://github.com/drejcreative/Event-Map-App.git`
+Clone this project with `git clone https://github.com/drejcreative/mern-boilerplate-nextjs-2020.git`
 
 After it install all backend dependencies with `yarn`
 Then run the same command in `client` folder to install all frontend dependencies 
 
 ## Development server
+Change MongoDB url to your one in `next.config.js` file.
 Run `npm run dev` or `yarn dev` for a dev server. 
 
 Run `npm run client` to start react app, or run `yarn start` in `client` folder.
