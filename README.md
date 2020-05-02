@@ -20,6 +20,7 @@ Then run the same command in `client` folder to install all frontend dependencie
 
 ## Development server
 Change MongoDB url to your one in `next.config.js` file.
+
 Run `npm run dev` or `yarn dev` for a dev server. 
 
 Run `npm run client` to start react app, or run `yarn start` in `client` folder.
